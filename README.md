@@ -4,14 +4,14 @@ Este repositório contém os códigos e exemplos práticos relacionados à séri
 
 ## Índice
 
-1. [Introdução ao LangChain](./1-introducao-ao-langchain/)
-2. [Trabalhando com Templates no LangChain](./2-trabalhando-com-templates/)
-3. [Entendendo Chains: Construindo Fluxos de Trabalho](./3-entendendo-chains/)
-4. [Avançando com Chains: Personalizando e Combinando Chains](./4-avancando-com-chains/)
-5. [Introdução aos Agents no LangChain](./5-introducao-aos-agents/)
-6. [Usando Agents para Automação Inteligente](./6-usando-agents-para-automacao/)
-7. [Avançando com Tools e Custom Agents](./7-avancando-com-tools-agents/)
-8. [Integração de LangChain com Outras Tecnologias](./8-integracao-com-outras-tecnologias/)
+1. [Introdução ao LangChain](https://github.com/joaogabriel1995/langchain-tutorials-code/blob/main/Introdu%C3%A7%C3%A3o/introducao.md)
+2. [Trabalhando com Templates no LangChain](https://github.com/joaogabriel1995/langchain-tutorials-code/tree/main/templates/PromptTemplate)
+3. [Entendendo Chains: Construindo Fluxos de Trabalho]()
+4. [Avançando com Chains: Personalizando e Combinando Chains]()
+5. [Introdução aos Agents no LangChain]()
+6. [Usando Agents para Automação Inteligente]()
+7. [Avançando com Tools e Custom Agents]()
+8. [Integração de LangChain com Outras Tecnologias]()
 
 ## Requisitos
 
